@@ -54,8 +54,7 @@ Instead of one general AI doing everything, we split the logic into specialized 
 
 ```bash
 AI-Hedge-Fund/
+├── capstone.ipynb        # experimenting the process and logics before the main application
 ├── app.py                # The Main Application (Logic + UI)
 ├── requirements.txt      # Dependencies for Cloud Deployment
-├── .streamlit/           # (Local Only) Secrets configuration
-│   └── secrets.toml
 └── README.md             # Documentation
