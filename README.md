@@ -59,17 +59,6 @@ Instead of one general AI doing everything, we split the logic into specialized 
 
 ---
 
-## 📂 Project Structure
-
-```bash
-AI-Hedge-Fund/
-├── capstone.ipynb        # experimenting the process and logics before the main application
-├── app.py                # The Main Application (Logic + UI)
-├── requirements.txt      # Dependencies for Cloud Deployment
-└── README.md             # Documentation
-
-
-
 ## 🛡️ Security & Reliability Features
 
 We designed this agent with specific safeguards for competition environments and scalability.
@@ -93,3 +82,16 @@ The agent features a dual-mode notification system for "Buy/Sell" signals.
     * *How to Enable:* Users can open the sidebar expander **"🔐 Email Config"** and enter their own Gmail App Password to enable real-world emailing. This proves the backend logic is fully functional while keeping the default experience safe.
 
 ---
+
+
+## 📂 Project Structure
+
+```bash
+AI-Hedge-Fund/
+├── capstone.ipynb        # experimenting the process and logics before the main application
+├── app.py                # The Main Application (Logic + UI)
+├── requirements.txt      # Dependencies for Cloud Deployment
+└── README.md             # Documentation
+
+---
+
