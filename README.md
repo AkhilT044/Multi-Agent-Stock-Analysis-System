@@ -3,7 +3,7 @@
 
 ## 🛠️ Tools & Technologies Used
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-agent-stock-analysis-system-ib22heed3d7ht3xdxsjwuz.streamlit.app/)
+
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
@@ -17,7 +17,7 @@
 **A professional-grade Multi-Agent System that acts as an autonomous financial analyst.** This project orchestrates a team of AI Agents—a Technical Analyst, a News Journalist, and a Chief Investment Officer (Supervisor)—to analyze real-time stock market data and generate investment decisions.
 
 ## 🔴 LIVE DEMO
-### 👉 [Click Here to Launch the App](https://multi-agent-stock-analysis-system-ib22heed3d7ht3xdxsjwuz.streamlit.app/)
+### 👉 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-agent-stock-analysis-system-ib22heed3d7ht3xdxsjwuz.streamlit.app/)
 *(Note: The app supports BYOK (Bring Your Own Key) for security. If you don't have a key, it runs in Simulation Mode to demonstrate functionality.)*
 
 ---
