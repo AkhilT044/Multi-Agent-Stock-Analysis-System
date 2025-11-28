@@ -82,7 +82,25 @@ The agent features a dual-mode notification system for "Buy/Sell" signals.
     * *How to Enable:* Users can open the sidebar expander **"🔐 Email Config"** and enter their own Gmail App Password to enable real-world emailing. This proves the backend logic is fully functional while keeping the default experience safe.
 
 ---
+## 🔮 Future Roadmap
 
+We have architected this system to scale from a single-user demo to a production SaaS platform.
+
+* [ ] **Automated Cron Jobs (The "Watchdog" Feature):**
+    * *Current State:* User clicks to run.
+    * *Future State:* Deploy via **GitHub Actions** or **AWS Lambda** to auto-run every morning at 9:00 AM EST. The agent will proactively email users *only* when a critical "Strong Buy/Sell" signal is detected.
+
+* [ ] **Portfolio Memory (SQL Database):**
+    * *Current State:* Stateless analysis.
+    * *Future State:* Integrate **PostgreSQL (Supabase)** to store user portfolios. The agent will calculate actual P&L (Profit & Loss) and remember previous recommendations to track its own accuracy over time.
+
+* [ ] **Multi-Ticker Analysis (S&P 500 Scanner):**
+    * *Current State:* Analyzes one specific ticker deeply.
+    * *Future State:* Implement **Python Asyncio** to scan 500+ tickers in parallel, filtering for high-RSI opportunities and presenting the "Top 3 Picks of the Day" automatically.
+
+
+
+---
 
 ## 📂 Project Structure
 
