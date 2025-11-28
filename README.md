@@ -1,9 +1,18 @@
 
 # 🤖 AI Hedge Fund Manager (Autonomous Multi-Agent System)
 
+## 🛠️ Tools & Technologies Used
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://multi-agent-stock-analysis-system-ib22heed3d7ht3xdxsjwuz.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Gemini](https://img.shields.io/badge/AI-Google%20Gemini%201.5-orange)
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini%201.5%20Flash-8E75B2?logo=google&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code%20(Colab)-007ACC?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
 
 **A professional-grade Multi-Agent System that acts as an autonomous financial analyst.** This project orchestrates a team of AI Agents—a Technical Analyst, a News Journalist, and a Chief Investment Officer (Supervisor)—to analyze real-time stock market data and generate investment decisions.
 
